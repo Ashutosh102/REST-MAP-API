@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4",
     "webpack": "^5.72.0"
   },
-  "homepage": "/rest-countries",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
