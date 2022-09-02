@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="#" color="white">
+    <a href="https://rest-map-api.vercel.app/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://www.frontendmentor.io/solutions/rest-maps-api--3PezJNsR2">
       Solution
     </a>
    <span> | </span>
@@ -68,4 +68,4 @@ I also finally started to understand how to use states depending whether it's a 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="#">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/rest-maps-api--3PezJNsR2">solution</a>. It definitely helps to find new ways to code and find easier solutions!
